@@ -35,7 +35,7 @@ for ( let i = 8; i < 18; i++ ) {
 
     if (presentHour == finalNumber) {
         $(textEntry).addClass("present");}
-    else if (presentHour > finalNumber) {
+    else if (presentHour < finalNumber) {
         $(textEntry).addClass("future");}
     else {$(textEntry).addClass("past");}
 
@@ -57,4 +57,3 @@ allValue.click(function() {
   
 
 displayTime();
-localStorage.clear();
