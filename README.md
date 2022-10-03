@@ -11,6 +11,7 @@ https://bleachevil.github.io/Challenge5-coding/
 ![](https://github.com/bleachevil/Challenge5-coding/blob/main/pics/1.png?raw=true)
 
 #### Present time is 17 pm
+![](https://github.com/bleachevil/Challenge5-coding/blob/main/pics/6.png?raw=true)
 
 ### 2. Click the save button for that timeblock and event is saved in local storage
 
